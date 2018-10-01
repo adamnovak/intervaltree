@@ -4,4 +4,4 @@ interval_tree_test: interval_tree_test.cpp IntervalTree.h
 .PHONY: clean
 
 clean:
-	rm interval_tree_test
+	rm -f interval_tree_test
